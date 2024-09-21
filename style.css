@@ -1,0 +1,43 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    width: 600px;
+}
+
+.container {
+    margin-left: 40px;
+}
+
+main img {
+    width: 200px;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    padding: 0px;
+}
+
+footer {
+    margin-top: 15px;
+    border-top: 1px solid #000;
+    text-align: center;
+    padding-top: 12px;
+}
+
+nav {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    align-items: center;
+    border-bottom: 2rem;
+    color: #000;
+}
+
+/*Class Selectors*/
