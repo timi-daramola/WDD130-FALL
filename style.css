@@ -18,6 +18,10 @@ main img {
     height: auto;
 }
 
+h1 {
+    font-size:larger;
+}
+
 main {
     max-width: 840px;
 }
@@ -57,6 +61,11 @@ nav {
     align-items: center;
     border-bottom: 2rem;
     color: #000;
+}
+
+nav a {
+    word-spacing: 5px;
+    text-decoration: none;
 }
 
 /*Class Selectors*/
