@@ -74,14 +74,15 @@ body {
 .hero img {
     position: absolute;
     display: block;
-    max-width: 1000px;
+    width: 62.5rem;
     height: auto;
 }
+
 
 article img { 
     margin-left: 660px;
     margin-top: 25px;
-    width: 220px;
+    max-width: 220px;
 }
 
 article p {
