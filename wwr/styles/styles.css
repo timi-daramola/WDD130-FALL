@@ -162,7 +162,7 @@ figure {
     margin: auto;
   }
   
-  #img-id {
+  .img-id {
     max-width: 220px;
     max-height: 150px;
   }
