@@ -267,3 +267,8 @@ figure {
     max-width: 220px;
     max-height: 150px;
 }
+
+.team-heading {
+    margin-left: 15rem;
+    margin-top: 5rem;
+}
