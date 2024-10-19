@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 
 :root {
     --primary-color: #04030F;
@@ -17,6 +18,11 @@
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--heading-font);
     color: var(--primary-color);
+}
+
+
+.team {
+    margin-left: 10rem;
 }
 
 .container {
@@ -216,5 +222,48 @@ figure {
     text-align: center;
   }
   
-  
-  
+  #fullName, #email, textarea {
+    display: flex;
+    width: 400px;
+    padding: 5px;
+}
+
+.btn {
+    width: 410px;
+    height: 40px;
+    color: #fff;
+    border: 2px solid #2226ff;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    background-color: #2226ff;
+}
+
+.map {
+    padding-top: 30px;
+}
+
+.map p {
+    text-align: center;
+    margin-top: -20px;
+}
+
+.user_form {
+    display: flex;
+    max-width: 500px;
+    height: 500px;
+    margin: auto;
+    padding-top: 20px;
+    margin-top: 50px;
+    background-color: rgb(231, 228, 228);
+    margin-bottom: 50px;
+}
+
+.form-container{
+    margin-left: 40px;
+}
+
+#team-img {
+    max-width: 220px;
+    max-height: 150px;
+}
