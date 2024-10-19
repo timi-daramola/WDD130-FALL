@@ -243,9 +243,14 @@ figure {
     padding-top: 30px;
 }
 
+.map, iframe {
+    border:0;
+}
+
 .map p {
     text-align: center;
     margin-top: -20px;
+    display: block;
 }
 
 .user_form {
