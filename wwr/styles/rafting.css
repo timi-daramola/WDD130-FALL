@@ -178,9 +178,6 @@ footer p {
 
 .sociallinks {
     margin-left: 100px;
-}
-
-.sociallinks, p {
     margin: 1rem auto;
 	display: inline;
 	grid-template-columns: 600px 1fr 2fr ;
@@ -299,7 +296,7 @@ figure {
 
 .newsletter {
     display: block;
-    max-width: 250px;
+    max-width: 300px;
     margin: auto;
     padding: 5px;
 }
@@ -307,7 +304,7 @@ figure {
 .btn-index {
     display: block;
     margin: auto;
-    width: 220px;
+    width: 200px;
     height: 40px;
     color: #fff;
     border: 2px solid #2226ff;
