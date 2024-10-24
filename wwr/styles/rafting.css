@@ -279,7 +279,7 @@ figure {
 }
 
 .img-container-index {
-    margin-left: 15rem;
+    margin-left: 11rem;
 }
 
 
@@ -334,6 +334,13 @@ figure {
     max-height: 200px;
 }
 
+.action-call {
+    max-width: 400px;
+    display: block;
+    margin-left: 30rem;
+    margin-bottom: -5rem;
+}
+
 .call-to-action-btn{
     margin-left: 25rem;
     width: 200px;
@@ -341,7 +348,6 @@ figure {
     border-radius: 20px;
     border: #2226ff 2px solid;
     background-color: #2226ff;
-    margin-top: 5rem;
 }
 
 .call-to-action{
@@ -360,7 +366,7 @@ figure {
 
 #trips-table {
     max-width: 710px;
-    margin-left: 11.5rem;
+    margin-left: 12rem;
     margin-top: 5rem;
 }
 
