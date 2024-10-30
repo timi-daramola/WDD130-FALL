@@ -354,11 +354,18 @@ figure {
 .call-to-action{
     color: #fff;
     text-decoration: none;
+    padding: 10px;
+    background-color: #2226ff;
+    border-radius: 20px;
+    margin-left: 27rem;
 }
 
 .call-to-action:hover{
     color: #fff;
     text-decoration: none;
+    padding: 10px;
+    background-color: #2226ff;
+    border-radius: 20px;
 }
 
 .homepage-footer {
